@@ -1,1 +1,3 @@
-# space-invader-game
+# Space Invader Game
+
+## Made with Turtle Graphics
